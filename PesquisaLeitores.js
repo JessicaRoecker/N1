@@ -8,7 +8,7 @@ a porcentagem de leitores que responderam bom entre todos os leitores;
 a porcentagem de leitores para cada cidade. */
 
 const readlineSync = require('readline-sync');
-// Inicialize um array vazio para armazenar as informações das pessoas
+
 
 
 var pessoas = []; // Declara a variável pessoas aqui
